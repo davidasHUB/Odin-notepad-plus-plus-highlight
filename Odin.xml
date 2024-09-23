@@ -14,7 +14,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">: != += -= /= = ! * ^ %% % / &gt;&gt; &lt;&lt; &amp; ~ &amp;~ &gt;= &lt;= &gt; &lt; &amp;&amp; || == ! , ( ) ..&lt; ..= [ ] -&gt; . .? | |= *= &lt;&lt;= &gt;&gt;= &amp;&amp;= ||= ?</Keywords>
+            <Keywords name="Operators1">: != += -= /= = ! * ^ %% % / &gt;&gt; &lt;&lt; &amp; ~ &amp;~ &gt;= &lt;= &gt; &lt; &amp;&amp; || == ! , ( ) ..&lt; ..= [ ] -&gt; . .? | |= *= &lt;&lt;= &gt;&gt;= &amp;&amp;= ||= ? + -</Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open">{</Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
